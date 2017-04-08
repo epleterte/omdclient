@@ -11,7 +11,7 @@ from datetime import datetime
 #########################################################################
 ### Configuration #######################################################
 #########################################################################
-## Managed via central libraries and /etc/omd_client
+## Managed via central libraries and /etc/omdclient
 
 config_file = '/etc/omdclient/config.yaml'
 
